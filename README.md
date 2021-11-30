@@ -1,6 +1,9 @@
 # quizlet-search
 A chrome extension for searching questions or definitions of words on Quizlet to find the answer.
 
+# NOTE (11/30/21):
+**This extension is currently broken. I am attempting to push a fix as soon as possible. It is advised that you do not attempt to use this extension.
+
 # Disclaimer
 NOTICE: Do **not** rely on this extension to pass whatever test/quiz you have. I do not claim responsibility if you abuse this extension and get caught in the act. This extension is meant as an educational tool.
 
