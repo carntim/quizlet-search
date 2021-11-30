@@ -11,10 +11,16 @@ Aside from that, please keep in mind the following before you download this exte
 4. It's best to avoid adding unnecessary words if you can help it. For example, it's better to query for 'the state bit that can be tested to see if the end of an input stream is encountered?' rather than 'Which of the following is the state bit that can be tested to see if the end of an input stream is encountered?'. The difference here is that 'Which of the following is' is only used for the sake of grammatical correctness and doesn't serve any value for the contents of the query itself.
 
 # How to use
-1. Load the extension as an unpacked extension. To do this, ensure developer mode is enabled and follow the steps below.
-A. Download the code as a .zip file.
-B. Extract the .zip file.
-C. On the chrome browser extensions menu (chrome://extensions), click the "Load unpacked" button, found in the top-left region of your screen. NOTE: If your browser is managed by an employer/school, you are unable to use this extension.
+**1. Load the extension as an unpacked extension. To do this, ensure developer mode is enabled and follow the steps below.**
+
+A. Download the code as a .zip file. 
+
+B. Extract the .zip file. 
+
+C. On the chrome browser extensions menu (chrome://extensions), click the "Load unpacked" button, found in the top-left region of your screen. NOTE: If your browser is managed by an employer/school, you are unable to use this extension. 
+
 D. Select the "extension" folder, found inside of the extracted folder, and press "Select Folder". 
-3. Select any text and right click it. You'll see a new context menu item called "Quizlet Search: ..."
-4. After a few seconds, an alert dialog will popup with the most likely answer in the center of the screen.
+
+**3. Select any text and right click it. You'll see a new context menu item called "Quizlet Search: ..."**
+
+**4. After a few seconds, an alert dialog will popup with the most likely answer in the center of the screen.**
